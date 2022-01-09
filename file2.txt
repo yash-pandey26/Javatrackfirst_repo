@@ -1,1 +1,3 @@
-hii we are learning branching nd rebasing in git
+1. hii we are learning branching nd rebasing in git
+2. this chng in master branch for rebasing with ch2
+3.  hllo
