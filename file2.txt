@@ -4,4 +4,6 @@
 3.  hllo
 -----------------------------------------
 4.now we are connecting with github
+-------------
+5.now we are doing cgnges in remote repo nd we are performing rebasing nd all with local repo
 
