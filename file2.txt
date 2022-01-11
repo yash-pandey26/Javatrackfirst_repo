@@ -1,1 +1,2 @@
-hii we are learning branching nd rebasing in git
+1.hii we are learning branching nd rebasing in git
+2.we are now in master branch nd performing rebasing
