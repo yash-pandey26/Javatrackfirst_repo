@@ -1,3 +1,17 @@
+
 1.hii we are learning branching nd rebasing in git
 2.we are now in master branch nd performing rebasing
 3. checkinggg
+
+1. hii we are learning branching nd rebasing in git
+
+2. this chng in master branch for rebasing with ch2
+3.  hllo
+-----------------------------------------
+4.now we are connecting with github
+
+-------------
+5.now we are doing cgnges in remote repo nd we are performing rebasing nd all with local repo
+
+
+
