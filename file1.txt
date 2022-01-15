@@ -4,6 +4,7 @@
 3. we are now in bug1 again nd performing rebase without conflict
 4.hllooo
 5. hoiiii
+6. chnges done frm remote master for fetch
 
 
 
