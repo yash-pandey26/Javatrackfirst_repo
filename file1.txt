@@ -6,6 +6,7 @@
 5. hoiiii
 6. chnges done frm remote master for fetch
 7.another chng frm remote for rebase
+8.chnges in local for rebase.
 
 
 
