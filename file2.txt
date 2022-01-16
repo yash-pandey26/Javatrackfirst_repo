@@ -13,6 +13,7 @@
 -------------
 5.now we are doing cgnges in remote repo nd we are performing rebasing nd all with local repo
 6. chnges frm remote for checkingggg rebase
+7. we are now in local master
 
 
 
