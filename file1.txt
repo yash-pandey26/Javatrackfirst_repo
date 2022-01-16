@@ -7,6 +7,8 @@
 6. chnges done frm remote master for fetch
 7.another chng frm remote for rebase
 8.chnges in local for rebase.
+----------------
+9we are now testing 3 way merging with bug11 branch nd we are in master branch now
 
 
 
