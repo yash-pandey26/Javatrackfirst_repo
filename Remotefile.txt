@@ -7,4 +7,5 @@ Change 1 in remote file  in remote repositary
 chnge5 now we are testing 3 way merging nd we are in bug11 branch
 -------------------
 chnge6 we are in remote branch noww
+7. in local master
 
